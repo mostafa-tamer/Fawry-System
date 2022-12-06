@@ -12,7 +12,7 @@ To enter as a user, Enter the following email and password
 and you can sign up as another user of course
 
 Contribution:
-    Mostafa Tamer
-    Mostafa Tarek
-    Youssef Hammam
-    Mohammed Gaber
+    Mostafa Tamer,
+    Mostafa Tarek,
+    Youssef Hammam,
+    Mohammed Gaber,
